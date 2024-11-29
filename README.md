@@ -15,4 +15,5 @@ Basic steps
  - the we build the header part
  - then we add react responsive carousel
  - we add catagory from fakestore api
- - 
+ - for buliding the single product page we need numeral js and material ui 
+ 
